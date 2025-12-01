@@ -17,7 +17,7 @@
 1. リポジトリをクローンまたはダウンロードします：
 
 ```bash
-git clone https://github.com/your-username/tsuika.git
+git clone https://github.com/tomo689/tsuika.git
 cd tsuika
 ```
 
